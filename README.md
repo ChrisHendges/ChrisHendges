@@ -2,7 +2,7 @@
   👋 Olá, eu sou o Chirstopher Hendges!  </h1>
 
 <ul>
-<li>📅 22 anos</li>
+<li>📅 23 anos</li>
 <li>☕ Desenvolvedor FullStack em formação </li>
 <li>📚 Estudante de Ciências da Computação | 3º semestre - CESUCA</li>
 <li>👨‍💻 veja meu <a href="https://portifolio-one-sigma-63.vercel.app/">portfolio</a></li>
@@ -32,7 +32,7 @@
 ## Redes Sociais
 
 <div aling="center">
-  <a href="https://www.linkedin.com/in/christoher-hendges/" title="Linkedin">
+  <a href="[https://www.linkedin.com/in/christoher-hendges/](https://www.linkedin.com/in/christopher-hendges)" title="Linkedin">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <a href="mailto:christopherhendges@gmail.com">
