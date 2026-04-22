@@ -32,7 +32,7 @@
 ## Redes Sociais
 
 <div aling="center">
-  <a href="https://www.linkedin.com/in/riandeoliveira/" title="Linkedin">
+  <a href="https://www.linkedin.com/in/christopher-hendges/" title="Linkedin">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <a href="mailto:christopherhendges@gmail.com">
